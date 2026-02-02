@@ -32,21 +32,31 @@ This website demonstrates the agency’s offerings with:
 
 ## 📂 Project Structure
 
-/project-root
-│
-├─ index.html # Main landing page
-├─ css/
-│ └─ style.css # Custom styles
-├─ js/
-│ └─ script.js # Custom JavaScript
-├─ images/
-│ ├─ logo/ # Logo files
-│ ├─ about us/ # About section images
-│ ├─ Testimonials/ # Testimonial images
-│ ├─ Team/ # Team member images
-│ ├─ banner/ # Hero/banner images
-│ └─ video/ # Video thumbnail or placeholder images
-└─ README.md # Project documentation
+/project-root  
+│  
+├─ index.html # Main landing page  
+├─ css/  
+│  └─ style.css # Custom styles  
+├─ js/  
+│  └─ script.js # Custom JavaScript  
+├─ images/  
+│  ├─ logo/ # Logo files  
+│  ├─ about us/ # About section images  
+│  ├─ Testimonials/ # Testimonial images  
+│  ├─ Team/ # Team member images  
+│  ├─ banner/ # Hero/banner images  
+│  └─ video/ # Video thumbnail or placeholder images  
+└─ README.md # Project documentation  
+
+---
+
+## 🚀 Installation
+
+To run this project locally:
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/RadwaHakeem207/Data-Agency.git
 
 
 ---
@@ -60,4 +70,5 @@ You can view the live version of the website [here](#)
 
 1. Clone the repository:
 ```bash
+
 git clone https://github.com/yourusername/data-agency-website.git
